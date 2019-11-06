@@ -1,0 +1,8 @@
+[05-Nov-2019 12:17:21 UTC] PHP Notice:  Undefined property: stdClass::$dates in /usr/local/www/sites/makarovhotel.ru/parsers/classes/Parsers/Room/RoomParser.php on line 174
+[05-Nov-2019 12:17:21 UTC] PHP Stack trace:
+[05-Nov-2019 12:17:21 UTC] PHP   1. {main}() /usr/local/www/sites/makarovhotel.ru/parsers/parseRooms.php:0
+[05-Nov-2019 12:17:21 UTC] PHP   2. Parsers\Room\RoomParser->parse() /usr/local/www/sites/makarovhotel.ru/parsers/parseRooms.php:28
+[05-Nov-2019 12:22:20 UTC] PHP Notice:  Undefined property: stdClass::$dates in /usr/local/www/sites/makarovhotel.ru/parsers/classes/Parsers/Room/RoomParser.php on line 174
+[05-Nov-2019 12:22:20 UTC] PHP Stack trace:
+[05-Nov-2019 12:22:20 UTC] PHP   1. {main}() /usr/local/www/sites/makarovhotel.ru/parsers/parseRooms.php:0
+[05-Nov-2019 12:22:20 UTC] PHP   2. Parsers\Room\RoomParser->parse() /usr/local/www/sites/makarovhotel.ru/parsers/parseRooms.php:28
